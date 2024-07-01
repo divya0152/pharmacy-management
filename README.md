@@ -61,11 +61,36 @@ Install the required packages using pip:
 
 **Usage**
 
-**1 **Run the Python script:
+** 1  Run the Python script:
+
+![Screenshot 2024-07-02 012951](https://github.com/divya0152/pharmacy-management/assets/174375954/801e43b5-ea0c-4d69-bf8c-a040580ed3e2)
+
+2  The GUI window will open, allowing you to manage the pharmacy inventory through various functionalities like adding, updating, deleting, searching, and displaying medicines.
+
+**                                        **SCREENSHOTS****
+
+![screenshot1](https://github.com/divya0152/pharmacy-management/assets/174375954/c7c183fe-0049-4623-b8d1-02204fcaa1dc)
+
+**                                 ADD MEDICINCE**
+
+1 ADDING DETAILS
+
+![Screenshot 2024-07-02 013825](https://github.com/divya0152/pharmacy-management/assets/174375954/d1efbaab-4fc5-4ddd-a65f-b6fd5aad3e7e)
+
+2 MESSAGE BOX
+
+![Screenshot 2024-07-02 014149](https://github.com/divya0152/pharmacy-management/assets/174375954/177ae229-a708-42c3-82ff-476629251c6f)
+
+3 OUTPUT
+
+![Screenshot 2024-07-02 014336](https://github.com/divya0152/pharmacy-management/assets/174375954/aac3cf88-d5de-409f-9f0b-3f0d8e9fc8a7)
+
+                                          UPDATE MEDICINCE
+
+![Screenshot 2024-07-02 014801](https://github.com/divya0152/pharmacy-management/assets/174375954/20088c38-bc34-481e-8df4-b784eaaf6577)
 
 
+**License**
 
-
-
-
+This project is licensed under the MIT License. See the LICENSE file for more details
 
